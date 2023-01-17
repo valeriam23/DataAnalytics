@@ -1,3 +1,5 @@
 # Environments
 SQL/.env
-SQL/.ipynb_checkpoints/.env
+SQL/.ipynb_checkpoints/
+Cohort_RFM_Ecommerce/.ipynb_checkpoints/
+AB_test_Edu_platform/.ipynb_checkpoints/
